@@ -1,0 +1,32 @@
+{
+  "favorite" : [
+    {
+      "id_fav": 1,
+      "name": "Mon Favoris AA"
+    },
+    {
+      "id_fav": 2,
+      "name": "Mon Favoris BB"
+    },
+    {
+    "id_fav": 3, 
+    "name" : "Mon Favoris CC"
+    },
+    {
+    "id_fav": 4, 
+    "name" : "Mon Favoris DD"
+    },
+    {
+    "id_fav": 5, 
+    "name" : "Mon Favoris EE"
+    },
+    {
+    "id_fav": 6, 
+    "name" : "Mon Favoris FF"
+    },
+    {
+    "id_fav": 7, 
+    "name" : "Mon Favoris GG"
+    }
+  ]
+}

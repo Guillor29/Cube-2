@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* On écrit les icones avec la syntaxe suivante :
+    <font-awesome-icon icon="fa-solid fa-user-secret" /> 
+ */
